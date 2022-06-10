@@ -1,0 +1,59 @@
+
+.body{
+   width: 50%;
+   height: 50%;
+ background-color: rgb(246, 246, 192);
+ margin: 0 auto;
+}
+
+.colum{
+    width: 100%;
+    display:flex;
+}
+input{
+    width: 100%;
+    height: 20px;
+}
+select{
+    width: 100%;
+    height: 26px;  
+}
+button{
+    background-color: rgb(28, 73, 222);
+    color: white;
+    width: 90px;
+    height: 30px;
+    margin: 10px 0;
+}
+.pass{
+    margin-left: 10px;
+}
+.row1 input{
+    width: 280px;
+}
+.row2 input{
+    width: 580px;
+}
+.row3 input{
+    width: 580px;
+}
+.row4 .city input {
+    width: 280px;
+}
+.row4 select {
+    width: 180px;
+}
+.row4 .zip input {
+    width: 90px;
+}
+.straight{
+    margin: 0 20px;
+}
+.row4 div{
+    margin-right: 10px;
+}
+.row5 input{
+    width: 20px !important;
+    height: 15px !important;
+    margin-top: 10px;
+}
